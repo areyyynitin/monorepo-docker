@@ -22,4 +22,4 @@ jobs:
           context: .
           file: ./docker/Dockerfile.backend
           push: true
-          tags: areyyynitin/user-app-backend:${{ github.sha }}
+          tags: areyyyynitin/user-app-backend:${{ github.sha }}
